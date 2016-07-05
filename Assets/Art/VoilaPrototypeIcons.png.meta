@@ -1,0 +1,332 @@
+fileFormatVersion: 2
+guid: 6fd003f0c5b7ae44b887416daac34d3d
+timeCreated: 1466711480
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Icon_Arrow
+    21300002: Icon_Menu
+    21300004: Icon_User
+    21300006: VoilaPrototypeIcons_3
+    21300008: VoilaPrototypeIcons_4
+    21300010: VoilaPrototypeIcons_5
+    21300012: VoilaPrototypeIcons_6
+    21300014: VoilaPrototypeIcons_7
+    21300016: VoilaPrototypeIcons_8
+    21300018: VoilaPrototypeIcons_9
+    21300020: VoilaPrototypeIcons_10
+    21300022: VoilaPrototypeIcons_11
+    21300024: VoilaPrototypeIcons_12
+    21300026: VoilaPrototypeIcons_13
+    21300028: VoilaPrototypeIcons_14
+    21300030: VoilaPrototypeIcons_15
+    21300032: VoilaPrototypeIcons_16
+    21300034: VoilaPrototypeIcons_17
+    21300036: VoilaPrototypeIcons_18
+    21300038: VoilaPrototypeIcons_19
+    21300040: VoilaPrototypeIcons_20
+    21300042: VoilaPrototypeIcons_21
+    21300044: VoilaPrototypeIcons_22
+    21300046: VoilaPrototypeIcons_23
+    21300048: VoilaPrototypeIcons_24
+    21300050: VoilaPrototypeIcons_25
+    21300052: VoilaPrototypeIcons_26
+    21300054: VoilaPrototypeIcons_27
+    21300056: VoilaPrototypeIcons_28
+    21300058: VoilaPrototypeIcons_29
+    21300060: VoilaPrototypeIcons_30
+    21300062: VoilaPrototypeIcons_31
+    21300064: VoilaPrototypeIcons_32
+    21300066: VoilaPrototypeIcons_33
+    21300068: VoilaPrototypeIcons_34
+    21300070: VoilaPrototypeIcons_35
+    21300072: VoilaPrototypeIcons_36
+    21300074: VoilaPrototypeIcons_37
+    21300076: VoilaPrototypeIcons_38
+    21300078: VoilaPrototypeIcons_39
+    21300080: VoilaPrototypeIcons_40
+    21300082: VoilaPrototypeIcons_41
+    21300084: VoilaPrototypeIcons_42
+    21300086: VoilaPrototypeIcons_43
+    21300088: VoilaPrototypeIcons_44
+    21300090: VoilaPrototypeIcons_45
+    21300092: VoilaPrototypeIcons_46
+    21300094: VoilaPrototypeIcons_47
+    21300096: VoilaPrototypeIcons_48
+    21300098: VoilaPrototypeIcons_49
+    21300100: VoilaPrototypeIcons_50
+    21300102: VoilaPrototypeIcons_51
+    21300104: VoilaPrototypeIcons_52
+    21300106: VoilaPrototypeIcons_53
+    21300108: VoilaPrototypeIcons_54
+    21300110: VoilaPrototypeIcons_55
+    21300112: VoilaPrototypeIcons_56
+    21300114: VoilaPrototypeIcons_57
+    21300116: VoilaPrototypeIcons_58
+    21300118: VoilaPrototypeIcons_59
+    21300120: VoilaPrototypeIcons_60
+    21300122: VoilaPrototypeIcons_61
+    21300124: VoilaPrototypeIcons_62
+    21300126: VoilaPrototypeIcons_63
+    21300128: VoilaPrototypeIcons_64
+    21300130: VoilaPrototypeIcons_65
+    21300132: VoilaPrototypeIcons_66
+    21300134: VoilaPrototypeIcons_67
+    21300136: VoilaPrototypeIcons_68
+    21300138: VoilaPrototypeIcons_69
+    21300140: VoilaPrototypeIcons_70
+    21300142: VoilaPrototypeIcons_71
+    21300144: VoilaPrototypeIcons_72
+    21300146: VoilaPrototypeIcons_73
+    21300148: VoilaPrototypeIcons_74
+    21300150: VoilaPrototypeIcons_75
+    21300152: VoilaPrototypeIcons_76
+    21300154: VoilaPrototypeIcons_77
+    21300156: VoilaPrototypeIcons_78
+    21300158: VoilaPrototypeIcons_79
+    21300160: VoilaPrototypeIcons_80
+    21300162: VoilaPrototypeIcons_81
+    21300164: VoilaPrototypeIcons_82
+    21300166: VoilaPrototypeIcons_83
+    21300168: VoilaPrototypeIcons_84
+    21300170: VoilaPrototypeIcons_85
+    21300172: VoilaPrototypeIcons_86
+    21300174: VoilaPrototypeIcons_87
+    21300176: VoilaPrototypeIcons_88
+    21300178: VoilaPrototypeIcons_89
+    21300180: VoilaPrototypeIcons_90
+    21300182: VoilaPrototypeIcons_91
+    21300184: VoilaPrototypeIcons_92
+    21300186: VoilaPrototypeIcons_93
+    21300188: VoilaPrototypeIcons_94
+    21300190: VoilaPrototypeIcons_95
+    21300192: VoilaPrototypeIcons_96
+    21300194: VoilaPrototypeIcons_97
+    21300196: VoilaPrototypeIcons_98
+    21300198: VoilaPrototypeIcons_99
+    21300200: VoilaPrototypeIcons_100
+    21300202: VoilaPrototypeIcons_101
+    21300204: VoilaPrototypeIcons_102
+    21300206: VoilaPrototypeIcons_103
+    21300208: VoilaPrototypeIcons_104
+    21300210: VoilaPrototypeIcons_105
+    21300212: VoilaPrototypeIcons_106
+    21300214: VoilaPrototypeIcons_107
+    21300216: VoilaPrototypeIcons_108
+    21300218: VoilaPrototypeIcons_109
+    21300220: VoilaPrototypeIcons_110
+    21300222: VoilaPrototypeIcons_111
+    21300224: VoilaPrototypeIcons_112
+    21300226: VoilaPrototypeIcons_113
+    21300228: VoilaPrototypeIcons_114
+    21300230: VoilaPrototypeIcons_115
+    21300232: VoilaPrototypeIcons_116
+    21300234: VoilaPrototypeIcons_117
+    21300236: VoilaPrototypeIcons_118
+    21300238: VoilaPrototypeIcons_119
+    21300240: VoilaPrototypeIcons_120
+    21300242: VoilaPrototypeIcons_121
+    21300244: VoilaPrototypeIcons_122
+    21300246: VoilaPrototypeIcons_123
+    21300248: VoilaPrototypeIcons_124
+    21300250: VoilaPrototypeIcons_125
+    21300252: VoilaPrototypeIcons_126
+    21300254: VoilaPrototypeIcons_130
+    21300256: VoilaPrototypeIcons_131
+    21300258: VoilaPrototypeIcons_132
+    21300260: VoilaPrototypeIcons_133
+    21300262: VoilaPrototypeIcons_134
+    21300264: VoilaPrototypeIcons_135
+    21300266: VoilaPrototypeIcons_136
+    21300268: VoilaPrototypeIcons_137
+    21300270: VoilaPrototypeIcons_138
+    21300272: VoilaPrototypeIcons_139
+    21300274: VoilaPrototypeIcons_140
+    21300276: VoilaPrototypeIcons_142
+    21300278: VoilaPrototypeIcons_150
+    21300280: VoilaPrototypeIcons_151
+    21300282: VoilaPrototypeIcons_152
+    21300284: VoilaPrototypeIcons_153
+    21300286: VoilaPrototypeIcons_154
+    21300288: VoilaPrototypeIcons_155
+    21300290: VoilaPrototypeIcons_156
+    21300292: VoilaPrototypeIcons_157
+    21300294: VoilaPrototypeIcons_158
+    21300296: VoilaPrototypeIcons_159
+    21300298: VoilaPrototypeIcons_160
+    21300300: VoilaPrototypeIcons_161
+    21300302: VoilaPrototypeIcons_162
+    21300304: VoilaPrototypeIcons_163
+    21300306: VoilaPrototypeIcons_164
+    21300308: VoilaPrototypeIcons_165
+    21300310: VoilaPrototypeIcons_166
+    21300312: VoilaPrototypeIcons_167
+    21300314: VoilaPrototypeIcons_168
+    21300316: VoilaPrototypeIcons_169
+    21300318: VoilaPrototypeIcons_170
+    21300320: VoilaPrototypeIcons_171
+    21300322: VoilaPrototypeIcons_172
+    21300324: VoilaPrototypeIcons_173
+    21300326: VoilaPrototypeIcons_174
+    21300328: VoilaPrototypeIcons_175
+    21300330: VoilaPrototypeIcons_176
+    21300332: VoilaPrototypeIcons_177
+    21300334: VoilaPrototypeIcons_178
+    21300336: VoilaPrototypeIcons_179
+    21300338: VoilaPrototypeIcons_180
+    21300340: VoilaPrototypeIcons_181
+    21300342: VoilaPrototypeIcons_182
+    21300344: VoilaPrototypeIcons_183
+    21300346: VoilaPrototypeIcons_184
+    21300348: VoilaPrototypeIcons_185
+    21300350: VoilaPrototypeIcons_186
+    21300352: VoilaPrototypeIcons_187
+    21300354: VoilaPrototypeIcons_188
+    21300356: VoilaPrototypeIcons_193
+    21300358: VoilaPrototypeIcons_194
+    21300360: VoilaPrototypeIcons_195
+    21300362: VoilaPrototypeIcons_196
+    21300364: VoilaPrototypeIcons_197
+    21300366: VoilaPrototypeIcons_198
+    21300368: VoilaPrototypeIcons_199
+    21300370: VoilaPrototypeIcons_200
+    21300372: VoilaPrototypeIcons_202
+    21300374: VoilaPrototypeIcons_203
+    21300376: VoilaPrototypeIcons_207
+    21300378: VoilaPrototypeIcons_208
+    21300380: VoilaPrototypeIcons_209
+    21300382: VoilaPrototypeIcons_211
+    21300384: VoilaPrototypeIcons_212
+    21300386: VoilaPrototypeIcons_213
+    21300388: VoilaPrototypeIcons_214
+    21300390: VoilaPrototypeIcons_215
+    21300392: VoilaPrototypeIcons_216
+    21300394: VoilaPrototypeIcons_217
+    21300396: VoilaPrototypeIcons_218
+    21300398: VoilaPrototypeIcons_219
+    21300400: VoilaPrototypeIcons_220
+    21300402: VoilaPrototypeIcons_221
+    21300404: VoilaPrototypeIcons_222
+    21300406: VoilaPrototypeIcons_223
+    21300408: VoilaPrototypeIcons_224
+    21300410: VoilaPrototypeIcons_225
+    21300412: VoilaPrototypeIcons_226
+    21300414: VoilaPrototypeIcons_227
+    21300416: VoilaPrototypeIcons_229
+    21300418: VoilaPrototypeIcons_230
+    21300420: VoilaPrototypeIcons_231
+    21300422: VoilaPrototypeIcons_232
+    21300424: VoilaPrototypeIcons_233
+    21300426: VoilaPrototypeIcons_234
+    21300428: VoilaPrototypeIcons_189
+    21300430: VoilaPrototypeIcons_190
+    21300432: VoilaPrototypeIcons_191
+    21300434: VoilaPrototypeIcons_141
+    21300436: VoilaPrototypeIcons_146
+    21300438: VoilaPrototypeIcons_127
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Icon_Arrow
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 163
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 14}
+        - {x: -10.5, y: 14}
+        - {x: -11.5, y: 13}
+        - {x: -11.5, y: -14}
+        - {x: -10.5, y: -16}
+        - {x: -7.5, y: -16}
+        - {x: 11.5, y: -6}
+        - {x: 14.5, y: -2}
+        - {x: 14.5, y: 2}
+        - {x: 5.5, y: 8}
+    - name: Icon_Menu
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 53
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 14}
+        - {x: -17, y: -12}
+        - {x: 16, y: -12}
+        - {x: 16, y: 14}
+    - name: Icon_User
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 103
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 18.5}
+        - {x: -15.5, y: 17.5}
+        - {x: -15.5, y: -13.5}
+        - {x: -9.5, y: -14.5}
+        - {x: 12.5, y: -14.5}
+        - {x: 17.5, y: -5.5}
+        - {x: 17.5, y: 11.5}
+        - {x: 12.5, y: 18.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
